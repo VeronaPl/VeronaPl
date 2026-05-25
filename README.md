@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/ragazza_verona" target="_blank">
+  <a href="https://t.me/npm_run_verona" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" style="border-radius: 15px;" />
   </a>
 </div>
@@ -19,8 +19,7 @@
 
 - &#128187; Frontend-разработчик, который изучает мир микросервисной архитектуры
 - &#127891; Выпускница Прикладной информатики Президентской Академии РАНХиГС 
-- &#128105;&#8205;&#128187; Frontend-разработчик Иннотех Т1
-- &#9997; Автор <a href="https://t.me/IT_451degrees">тг-канала "В IT 451 градус"</a>
+- &#128105;&#8205;&#128187; Активный контрибьютор в опенсорс UI KIT "Admiral"
 - &#127942; Поступила в Школу21 от Сбера
 - &#128640; "The key to success is to focus on goals, not obstacles"
 - &#9889; Fun fact: Если Вы так же как и я любите ходить на IT-конференции, то значит мы уже знакомы)<br>
@@ -49,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="node logo"  />
   <img width="12" />
